@@ -1,0 +1,6 @@
+a: samples/hi-hat.wav;
+s: samples/hi-hat-roll.wav;
+d: samples/kick.wav;
+f: samples/snare.wav;
+g: samples/clap.wav;
+h: samples/808.wav;
